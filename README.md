@@ -6,6 +6,6 @@ A custom yolo network for product recognition and detection.
 
 # Additional resource
 
-1)This project has been implemented according to instructions available at [AlexeyAB repository](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
+1)This project has been implemented according to instructions available at [AlexeyAB repository](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects).<br/>
 
-2) Link to weights file [my-yolo2.backup](https://drive.google.com/open?id=1XspwGVoaVSgErU4ht_8tKEGpQoZyAjQq)
+2)Link to weights file [my-yolo2.backup](https://drive.google.com/open?id=1XspwGVoaVSgErU4ht_8tKEGpQoZyAjQq)
